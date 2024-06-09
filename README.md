@@ -9,6 +9,7 @@ If you don't know what this patch is for, you're in the wrong place.
 
 > Probably any version after v1.503 works.
 
+- [x] Github - (05, Jun, 2024) (Dont Work)
 - [x] Github - (10, Dec, 2023) (Works)
 - [x] Github - (03, Jul, 2023) (Works)
 - [x] v1.540 - (04, Jun, 2023) (Works)
